@@ -1,0 +1,93 @@
+{
+    "lg": "ru",
+    
+
+    "log_label":"Вход в личный кабинет",
+    "btn_label":"Войти",
+    "text_log" :"Для того чтобы войти в систему, используйте",
+    "text_log_li1":"логин и пароль от вашей университетской учетной записи",
+    "text_log_li2": "получить их можно в учебной части своего института/филиала.",
+    "fog_pass":"Забыли пароль?",
+    "plz_captcha":"Пожалуйста, введите ответ цифрами",
+    "wrong_ans":"Ошибка! Попробуйте еще раз. Убедитесь, что вводите логин и пароль правильно.",
+    "wrong_ans_calc":"Ошибка! Попробуйте еще раз. Неправильное решение примера.",
+    "emp_value":"Пустое значение",
+    "error_net_conn":"Сервер занят. Попробуйте повторить попытку через 5 минут",
+    "success_login":"Успешно выполнен вход",
+    "success":"Успешно",
+    "error":"Ошибка",
+    "notice":"Уведомление",
+    "info":"Информация",
+    "data_saved":"Данные сохранены",
+
+
+    
+
+    "page_not_found":"Страница не найдена",
+    "back_to_home_page":"На главную",
+    "site_map":"Карта сайта",
+
+
+    "Username":"Имя пользователя",
+    "Institute":"Учреждение",
+    "Department":"Отдел",
+    "Group":"Группа",
+    "GraduateStudent":"Аспирант",
+    "Qualification":"Квалификация",
+    "FormType":"Формо обучения",
+    "Entered":"Год поступления",
+    "SpecialtyCode":"Код cпециальности",
+    "CurriculumName":"Название учебной Программы",
+    "EducationLevel":"Уровень образования",
+    "RecordBook":"Зачетная книжка",
+    "Birthday":"Дата рождения",
+    "Position":"Позиция",
+    "InternalPhone":"Внутренний телефон",
+    "WorkPhone":"Рабочий телефон",
+    "DisplayName":"Отображаемое имя",
+    "Roles":"Роли",
+    "StreetAddress":"Адрес",
+
+
+    "ExperienceMonth": "Трудовой стаж",
+    "TeachExperienceMonth":	"Научно-преподавательский опыт",
+    "Rewards": "Награды",
+    "Education": "Образование",
+    "LanguageSkills": "Знание языков",
+    "AcademicDegree": "Ученая степень",
+    "AcademicTitle": "Ученое звание",
+
+    "Activity":"Активность",
+    "Portfolio":"Портфолио",
+    "Progress":"Успеваемость",
+
+    "Phone":"Контактный телефон",
+    "Email":"Почта",
+    "Site":"Сайт",
+
+    
+    "Icq":"ICQ",
+    "Whatsapp":"WhatsApp",
+    "Googlescholar":"Google Scholar",
+    "Researchgate":"ResearchGate", 
+
+
+    "Main":"Основное",
+    
+    "Additional":"Дополнительно",
+    "Rating":"Рейтинг",
+    "Social":"Социальные сети",
+    "Messenger":"Мессенджер",
+    "Contacts":"Контакты",
+
+    "ManagedUnits": "Курируемые подразделения",
+    "EducationUnits": "Учебные курсы, дисциплины",
+    "ParticipationConferences": "Участие в конференциях",
+    "ResearchProjects": "Исследовательские проекты и гранты",
+    "Internships": "Стажировки",
+    "AdditionalInfo": "Дополнительная информация",
+    "SuccessProjects": "Успешные достижения и проекты",
+    "Responsibilities": "Основные обязанности",
+    "ScienceInterest": "Научные интересы",
+    "ProfInterest": "Проф. интересы"
+}

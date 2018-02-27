@@ -1,0 +1,93 @@
+{
+    "lg": "en",
+
+
+    "log_label":"Login to your account",
+    "btn_label":"Sign in",
+    "text_log":"To log in, use",
+    "text_log_li1":"the username and password from your University account",
+    "text_log_li2": "You can get them in the educational part of your institute / branch.",
+    "fog_pass":"Forgot password?",
+    "plz_captcha":"Please enter an answer in digits",
+    "wrong_ans":"Error! Try again. Make sure you enter data correctly.",
+    "wrong_ans_calc":"Error! Try again. Wrong solution example.",
+    "emp_value":"Empty value",
+    "error_net_conn":"The server is busy. Try again in 5 minutes",
+    "success_login":"Login succeeded",
+    "success":"Success",
+    "error":"Error",
+    "notice":"Notice",
+    "info":"info",
+    "data_saved":"Data saved",
+    
+
+
+
+
+    "page_not_found":"Page not found",
+    "back_to_home_page":"Back to home page",
+    "site_map":"Site map",
+
+
+    "Username":"User name",
+    "Institute":"Institute",
+    "Department":"Department",
+    "Group":"Group",
+    "GraduateStudent":"Graduate Student",
+    "Qualification":"Qualification",
+    "FormType":"Form Type",
+    "Entered":"Entered",
+    "SpecialtyCode":"Specialty Code",
+    "CurriculumName":"Curriculum Name",
+    "EducationLevel":"Education Level",
+    "RecordBook":"Record Book",
+    "Birthday":"Birthday",
+    "Position":"Position",
+    "InternalPhone":"Internal Phone",
+    "WorkPhone":"Work Phone",
+    "DisplayName":"Display Name",
+    "Roles":"Roles",
+    "StreetAddress":"Address",
+
+
+    "ExperienceMonth": "Experience Month",
+    "TeachExperienceMonth":	"Teach Experience Month",
+    "Rewards": "Rewards",
+    "Education": "Education",
+    "LanguageSkills": "Language Skills",
+    "AcademicDegree":"Academic Degree",
+    "AcademicTitle":"Academic Title",
+
+    "Activity":"Activity",
+    "Portfolio":"Portfolio",
+    "Progress":"Progress",
+
+    "Phone":"Phone",
+    "Email":"Email",
+    "Site":"Site",
+
+
+    "Icq":"ICQ",
+    "Whatsapp":"WhatsApp",
+    "Googlescholar":"Google Scholar",
+    "Researchgate":"ResearchGate",
+
+
+    "Main":"Основное",
+    "Additional":"Additional",
+    "Rating":"Рейтинг",
+    "Social":"Социальные сети",
+    "Messenger":"Мессенджер",
+    "Contacts":"Контакты",
+
+    "ManagedUnits": "Курируемые подразделения",
+    "EducationUnits": "Учебные курсы, дисциплины",
+    "ParticipationConferences": "Участие в конференциях",
+    "ResearchProjects": "Исследовательские проекты и гранты",
+    "Internships": "Стажировки",
+    "AdditionalInfo": "Дополнительная информация",
+    "SuccessProjects": "Успешные достижения и проекты",
+    "Responsibilities": "Основные обязанности",
+    "ScienceInterest": "Научные интересы",
+    "ProfInterest": "Проф. интересы"
+}
